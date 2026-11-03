@@ -4,8 +4,8 @@ Landing page de Ian Akiles para reunir projetos digitais em uma interface modern
 
 ## Visual e recursos
 
-- Título com efeito neon e animação de entrada e saída.
-- Fundo Matrix animado com 7% de opacidade.
+- Título com neon estático e animação leve de entrada e saída (opacidade e deslocamento).
+- Fundo Matrix estático em SVG com 7% de opacidade, otimizado para reduzir processamento.
 - Cards com imagens ilustrativas geradas por IA e links para os projetos.
 - Botão de acesso ao portfólio: https://ianakiles.com.br/
 - Suporte à preferência por movimento reduzido.
