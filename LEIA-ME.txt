@@ -1,1 +1,0 @@
-A fonte Boxider Demo foi fornecida pelo usuário. O arquivo original restringe uso promocional e comercial. Esta versão serve como prévia local; obtenha a licença apropriada antes de publicar. A animação entra quando o título aparece e sai quando ele deixa a área visível, respeitando a preferência por movimento reduzido.
