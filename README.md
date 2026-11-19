@@ -19,7 +19,7 @@ Garimpo Tech, StudyFlow, RECALL, Trilha de Sistemas, página de orçamento e Ret
 ```text
 index.html    # Página, estilos e animações
 assets/       # Imagens e fonte local
-LEIA-ME.txt   # Observação sobre a licença da fonte
+README.md     # Orientações de publicação e licença da fonte
 ```
 
 ## Como usar
